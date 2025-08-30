@@ -1,0 +1,12 @@
+venv/
+.env/
+.venv
+
+*.egg-info/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+*.joblib
+
